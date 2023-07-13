@@ -2,7 +2,6 @@
 - 👀 I’m interested in Computer Science 
 - 🌱 I’m currently learning Programming  
 - 💞️ I’m looking to collaborate on IEEE
-- 📫 How to reach me 
 
 <!---
 MohammedRamadanqawuq/MohammedRamadanqawuq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
