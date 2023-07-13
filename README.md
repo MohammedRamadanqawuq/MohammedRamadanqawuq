@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohammedRamadanqawuq
+- 👋 Hi, I’m @Mohammed Ramadan Qawouq
 - 👀 I’m interested in Computer Science 
 - 🌱 I’m currently learning Programming  
 - 💞️ I’m looking to collaborate on IEEE
