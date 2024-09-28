@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Mohammed Ramadan Qawouq
-- 👀 I’m interested in Computer Science 
-- 🌱 I’m currently learning Programming  
-- 💞️ I’m looking to collaborate on IEEE
+- 👋 Hi, I’m @Mohammed Ramadan Qawoouq.
+- 👀 I'm a Software Engineer.
+- 🌱 I'm Data analyst and Data scientist.
 
 <!---
 MohammedRamadanqawuq/MohammedRamadanqawuq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
